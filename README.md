@@ -1,6 +1,6 @@
 ### Hi, I am Olga, python developer! 👋
 
-Technology stack: Python, Django, FastAPI, Flask, Postman, PostgreSQL, Docker.
+My technology stack: Python, Django, FastAPI, Flask, Postman, PostgreSQL, Docker.
 
 <!--
 **master-click/master-click** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
